@@ -49,3 +49,4 @@ git clone https://github.com/hoge/~
  
 # License
 ライセンスを明示する
+"# git-curriculum"  
